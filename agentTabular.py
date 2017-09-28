@@ -283,7 +283,6 @@ def compareMethods():
             benchmark_data[agent_i][point_i] = agents[agent_i].benchmark(eps_benchmark)
 
     # Plot results
-    plt.figure(figsize=(13, 10))
     xaxis = [eps_per_point*(i+1) for i in range(n_plot_points)]
     title1 = 'SARSA, a = ' + str(alpha1)
     title2 = 'SARSA(lamda), a = ' + str(alpha2) + ', l = ' + str(lamda2)
