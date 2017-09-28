@@ -27,3 +27,5 @@ Currently implemented:
   * Advantage Actor-Critic
   * TD Actor-Critic
   * TD(λ) Actor-Critic
+
+* agentModelBased.py: Model based methods.
