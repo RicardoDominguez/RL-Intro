@@ -29,3 +29,7 @@ Currently implemented:
   * TD(λ) Actor-Critic
 
 * agentModelBased.py: Model based methods.
+  * DynaQ
+  * Monte Carlo Tree Search
+  * TD Tree Search
+  * Dyna2
