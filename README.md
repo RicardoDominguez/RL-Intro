@@ -34,4 +34,5 @@ Currently implemented:
   * TD Tree Search
   * Dyna2
 
-Several classes and functions required for the above files are contained in util.py. The environment file gridworld.py might be required for some examples and comparisons.
+Several classes and functions required for the above files are contained in util.py. 
+The environment file gridworld.py might be required for some examples and comparisons.
