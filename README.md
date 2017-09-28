@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-Repository dedicated to the implementation of several Reinforcement Learning methods in Python, exemplified by OpenAI environments. Some performance comparisions are included.
+Repository dedicated to the implementation of several Reinforcement Learning methods in Python, exemplified by OpenAI environments. Some performance comparisons are included.
 
 Currently implemented:
 * agentTabular.py: Tabular action value methods.
@@ -33,3 +33,5 @@ Currently implemented:
   * Monte Carlo Tree Search
   * TD Tree Search
   * Dyna2
+
+Several classes and functions required for the above files are contained in util.py. The environment file gridworld.py might be required for some examples and comparisons.
