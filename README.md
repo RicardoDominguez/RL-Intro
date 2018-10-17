@@ -42,7 +42,7 @@ The environment file gridworld.py might be required for some examples and compar
 
 Sources used:
  * David Silver (2015), COMPM050/COMPGI13 Lectures.
+ * Sutton and Barto (2012), Reinforcement Learning: an Introduction.
  * Csaba Szepesvari (2009), Algorithms for Reinforcement Learning.
  * Daniel Takeshi (2016), Going Deeper Into Reinforcement Learning: Understanding Q-Learning and Linear Function Approximation.
  * David Silver, Richard Sutton and Martin Muller (2012).
- * Sutton and Barto (2012), Reinforcement Learning: an Introduction.
